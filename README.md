@@ -8,9 +8,10 @@ Roadmap untuk object oriented programming
 - [Penerapan OOP pada Java](materi/dasar-oop/penerapan-oop-pada-java.md)
 - [Constructor](materi/dasar-oop/constructor.md)
 - Access Modifier
-- Getter Setter
+- [Getter dan Setter](materi/dasar-oop/getter-setter.md)
 
 ## 2. Konsep Lanjutan OOP
+
 - Inheritance
 - Overloading
 - Overriding

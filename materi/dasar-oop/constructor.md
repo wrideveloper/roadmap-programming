@@ -11,7 +11,7 @@ Constructor merupakan method spesial yang otomatis dijalankan ketika suatu objek
 Untuk membuat constructor, kita perlu membuat method baru dengan nama yang sama seperti class nya. Misal kita ingin membuat constructor pada class `Hero`, maka nama dari constructornya adalah `Hero()`
 
 ```java
-// Hero.cs
+// Hero.java
 
 class Hero {
   public String name;
@@ -38,7 +38,7 @@ class Hero {
 Untuk menjalankan constructor yang sudah dibuat pada class `Hero`, kita tinggal membuat object baru menggunakan class tersebut
 
 ```java
-// Program.cs
+// Program.java
 
 class Program {
   public static void main(String[] args) {
@@ -53,7 +53,7 @@ class Program {
 Constructor biasanya digunakan untuk mengisi attribute dari suatu object saat object tersebut dibuat, contohnya sebagai berikut
 
 ```java
-// Hero.cs
+// Hero.java
 
 class Hero {
   public String name;
@@ -77,7 +77,7 @@ class Hero {
 ```
 
 ```java
-// Program.cs
+// Program.java
 
 class Program {
   public static void main(String[] args) {
