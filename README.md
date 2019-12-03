@@ -12,7 +12,7 @@ Roadmap untuk object oriented programming
 
 ## 2. Konsep Lanjutan OOP
 
-- Inheritance
+- [Inheritance](materi/dasar-oop/inheritance.md)
 - Overloading
 - Overriding
 - Polymorphism
