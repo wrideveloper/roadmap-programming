@@ -2,17 +2,33 @@
 
 Roadmap untuk object oriented programming
 
-## 1. Dasar OOP
+## 1. Basic Programming
 
-- [Pengenalan OOP](materi/dasar-oop/pengenalan-oop.md)
-- [Penerapan OOP pada Java](materi/dasar-oop/penerapan-oop-pada-java.md)
-- [Constructor](materi/dasar-oop/constructor.md)
+- Variabel
+- Tipe Data
+- Input dan Output
+- Operator
+- Percabangan
+- Perulangan
+- Array
+- Fungsi
+
+## 2. Object Oriented Programming
+
+- [Pengenalan OOP](materi/oop/pengenalan-oop.md)
+- [Penerapan OOP pada Java](materi/oop/penerapan-oop-pada-java.md)
+- [Constructor](materi/oop/constructor.md)
 - Access Modifier
-- [Getter dan Setter](materi/dasar-oop/getter-setter.md)
-
-## 2. Konsep Lanjutan OOP
-
-- [Inheritance](materi/dasar-oop/inheritance.md)
+- [Getter dan Setter](materi/oop/getter-setter.md)
+- [Inheritance](materi/oop/inheritance.md)
 - Overloading
 - Overriding
 - Polymorphism
+
+## 2. Clean Code
+
+## 3. Testing
+
+- Unit Testing
+- Test Coverage
+- Test Driven Development
