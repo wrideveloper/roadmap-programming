@@ -1,6 +1,6 @@
-# Roadmap OOP
+# Roadmap Programming
 
-Roadmap untuk object oriented programming
+Roadmap untuk belajar dasar pemrograman
 
 ## 1. Basic Programming
 
