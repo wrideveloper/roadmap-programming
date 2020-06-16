@@ -27,9 +27,9 @@ Roadmap untuk belajar dasar pemrograman
 - Interface
 - Polymorphism
 
-## 2. Clean Code
+## 3. Clean Code
 
-## 3. Testing
+## 4. Testing
 
 - Unit Testing
 - Test Coverage
