@@ -22,7 +22,9 @@ Roadmap untuk belajar dasar pemrograman
 - [Getter dan Setter](materi/oop/getter-setter.md)
 - [Inheritance](materi/oop/inheritance.md)
 - Overloading
-- Overriding
+- [Overriding](materi/oop/overriding.md)
+- Abstract
+- Interface
 - Polymorphism
 
 ## 2. Clean Code
