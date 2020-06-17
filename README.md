@@ -18,7 +18,7 @@ Roadmap untuk belajar dasar pemrograman
 - [Pengenalan OOP](materi/oop/pengenalan-oop.md)
 - [Penerapan OOP pada Java](materi/oop/penerapan-oop-pada-java.md)
 - [Constructor](materi/oop/constructor.md)
-- Access Modifier
+- [Access Modifier](materi/oop/access-modifier.md)
 - [Getter dan Setter](materi/oop/getter-setter.md)
 - [Inheritance](materi/oop/inheritance.md)
 - Overloading

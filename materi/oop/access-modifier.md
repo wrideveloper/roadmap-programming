@@ -148,7 +148,7 @@ class MainLevel extends Hero {
 
 **Kesimpulan** : Object dengan Protected Access Modifier hanya dapat diakses oleh sub-class atau class turunan.
 
-## 6. Kesimpulan Access Modifier
+## 6. Kesimpulan Access Modifier~
 
 Access Modifier | Class | Package | Subclass | Global
 ------------ | ------------ | ------------ | ------------ | ------------
