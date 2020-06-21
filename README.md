@@ -23,8 +23,7 @@ Roadmap untuk belajar dasar pemrograman
 - [Inheritance](materi/oop/inheritance.md)
 - [Overloading](materi/oop/overloading.md)
 - [Overriding](materi/oop/overriding.md)
-- Abstract
-- Interface
+- [Abstract & Interface](materi/oop/abstract-interface.md)
 - Polymorphism
 
 ## 3. Clean Code
