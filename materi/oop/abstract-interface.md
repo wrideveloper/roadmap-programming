@@ -68,7 +68,7 @@ Luas Lingkaran Biru = 153.86002
 
 ## 2. Interface
 
-## 2.1 Penjelasan
+### 2.1 Penjelasan
 
 Interface sendiri sebenarnya tidak jauh berbeda dengan abstract, interface adalah sebuah class yang method method didalamnya tidak memiliki isi. Method didalam class interface ini wajib diimplementasikan pada class turunannya. Keuntungan menggunakan interface disini kita dapat meng-implementasikan lebih dari 1 class. Berbeda dengan abstract tadi yang cuma dapat mengimplementasikan 1 kelas induk/parent. Semua method didalam interface merupakan abstract method. 
 
