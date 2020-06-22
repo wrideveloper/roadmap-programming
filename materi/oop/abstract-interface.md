@@ -1,7 +1,7 @@
 # Abstract & Interface
 
 ## 1. Abstract
-## 1.1 Penjelasan
+### 1.1 Penjelasan
 
 Abstract sendiri memiliki artian bahwa sesuatu yang masih belum jelas bentuknya ataupun wujudnya. Pada java sendiri class Abstract biasanya digunakan pada class parent atau induk. Saya disini membuat analogi bahwa saya akan membuat class BangunDatar. Nah pada dari kata BangunDatar sendiri muncul berbagai pertanyaan, bangun datar yang mana? Persegi? segitiga? atau lingkaran? nah inilah yang disebut dengan abstrak. Lalu pada class BangunDatar terdapat sebuah method ``getLuas()`` tentunya disini masih tidak jelas karena luas apa yang nantinya akan kita hitung? menggunakan bangun datar yang mana? maka dari itu kita dapat mengatakan bahwa method ``getLuas()`` ini masih abstract atau tidak jelas.
 
