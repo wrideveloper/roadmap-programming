@@ -156,3 +156,7 @@ Sisa hewan = 50
 Dilestarikan di = Ujung Kulon
 ```
 Jadi kesimpulan dari interface adalah interface merupakan class yang bersifat abstract, method didalam class interface tidak dapat memiliki tubuh / body.
+
+## 3. Kesimpulan
+
+Kenapa kita menggunakan abstract class / interface class? Jawabannya simple, agar kita menggunakan kembali suatu method dari class induk/parent tanpa membuat baru lagi(Reusable). Dan kapan kita menggunakan abstract/interface class? tentunya jika kita ingin mengimplementasi 1 atau lebih sebuah class abstract tentunya kita harus menggunakan interface, karena memang support untuk implementasi 1 atau lebih. Namun jika abstract class hanya bisa 1x diimplementasikan dengan pewarisan menggunakan "extends".
