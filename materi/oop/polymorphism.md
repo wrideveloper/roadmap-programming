@@ -84,7 +84,7 @@ Ngueengg~
 
 Nah itu merupakan salah satu contoh dynamic polymorphism, kita dapat mengimplementasikan bergerak dengan cara yang berbeda beda contohnya jika mobil diinjak pedal gasnya jika perahu kayu menggunakan dayung dan lain lain.
 
-## 2.3 Instance of
+### 2.3 Instance of
 
 Pada polimorfisme kita juga dapat melakukan pengecekan ini termasuk dalam class mana dan bisa memilih aksi sesuai dengan filter class tersebut, oke langsung saja ke implementasi coding supaya tidak bingung. Seperti biasa kita pertama tama membuat class parent terlebih dahulu yang nantinya akan diimplementasikan pada class child.
 
