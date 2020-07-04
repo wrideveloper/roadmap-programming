@@ -181,7 +181,7 @@ package polimorfisme;
 
 public class Bos {
     public void tampilSemuaKaryawan(Karyawan k){
-        System.out.println(""+k.getDataKaryawan());
+        System.out.println(k.getDataKaryawan());
         if(k instanceof PegawaiTetap){
             System.out.println("Perlu digaji nih");
         }else{
