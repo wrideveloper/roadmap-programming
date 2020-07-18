@@ -4,9 +4,8 @@ Roadmap untuk belajar dasar pemrograman
 
 ## 1. Basic Programming
 
-- Variabel
-- Tipe Data
-- Input dan Output
+- [Variabel dan Tipe Data](materi/basic/variabeltipedata.md)
+- [Input dan Output](materi/basic/inputoutput.md)
 - Operator
 - Percabangan
 - Perulangan
