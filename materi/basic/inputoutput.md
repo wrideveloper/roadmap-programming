@@ -62,4 +62,16 @@ Tinggi: 172.5
 Berat: 65.3
 ```
 
-Pada program diatas kita sudah bisa menerima inputan dan mengeluarkannya dalam output. Hal yang harus diperhatikan adalah sebagai berikut `Scanner sc = new Scanner(System.in);` sc disini merupakan variabel bebas yang dapat kita ganti apa saja. Contohnya `Scanner input = new Scanner(System.in);`. Lalu hal kedua yang harus diperhatikan adalah `alamat = keyboard.nextLine();` alamat merupakan suatu variabel bertipe data String, maka dari itu ia menggunakan `nextLine()`, jika bertipe int `nextInt()`, bertipe double `nextDouble()` dan seterusnya. Peletakan `import java.util.Scanner;` sesudah package. Perbedaan `System.out.println` dan `System.out.print` adalah jika kita menggunakan `println` maka kita akan membuat baris baru namun jika `print` biasa maka tidak akan membuat baris baru.
+Pada program diatas kita sudah bisa menerima inputan dan mengeluarkannya dalam output. Hal yang harus diperhatikan adalah sebagai berikut:
+
+1. Peletakan `import java.util.Scanner;` sesudah package.
+2. `Scanner sc = new Scanner(System.in);` sc disini merupakan variable, nama dari variable ini bebas sehingga dapat kita ganti apa saja. Contohnya: `Scanner input = new Scanner(System.in);`.
+3. `sc.next...();`, contoh: `sc.nextLine();`, `nextLine();` digunakan untuk membaca inputan berupa kalimat / `Strings` untuk membaca tipe data yang lain dapet menggunakan method lain, beberapa contoh method yang ada: 
+  
+- `nextInt()` untuk membaca inputan bertipe data Integer (int).
+
+- `nextDouble()` untuk membaca inputan bertipe data Double.
+
+- selengkapnya [Scanner Input Types](https://www.w3schools.com/java/java_user_input.asp)
+
+4. Perbedaan `System.out.println` dan `System.out.print` adalah jika kita menggunakan `println` maka kita akan membuat baris baru namun jika `print` biasa maka tidak akan membuat baris baru.
