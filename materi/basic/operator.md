@@ -37,13 +37,13 @@ int num = 29;
 
 Pada kode diatas `=` berfungsi untuk memberikan nilai variabel num nilai 29. Berikut tabel informasi mengenai assignment operator yang paling sering digunakan.
 
-| Operator | Deskripsi                                                                                      | Contoh                                           |
-| -------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| =        | Memberikan nilai dari variabel kiri ke kanan                                                   | A = 1 berarti memberikan nilai 1 pada variabel A |
-| +=       | Menambah nilai dari variabel kiri ke kanan dan menetapkan nilainya ke variabel sebelah kiri    | A += 1 berarti A = A + 1                         |
-| -=       | Mengurangi nilai dari variabel kiri ke kanan dan menetapkan nilainya ke variabel sebelah kiri  | A -= 1 berarti A = A - 1                         |
-| \*=      | Mengkalikan nilai dari variabel kiri ke kanan dan menetapkan nilainya ke variabel sebelah kiri | A \*= 1 berarti A = A \* 1                       |
-| /=       | Membagi nilai dari variabel kiri ke kanan dan menetapkan nilainya ke variabel sebelah kiri     | A /= 1 berarti A = A / 1                         |
+| Operator | Deskripsi                                                                                                        | Contoh                                             |
+| -------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| =        | Memberikan sebuah nilai (kanan) ke variabel (kiri)                                                               | A = 1 berarti memberikan nilai 1 kepada variabel A |
+| +=       | Menambah nilai dari variabel (kiri) lama dengan nilai (kanan) kemudian menetapkan hasilnya ke variabel (kiri)    | A += 1 berarti A = A + 1                           |
+| -=       | Mengurangi nilai dari variabel (kiri) lama dengan nilai (kanan) kemudian menetapkan hasilnya ke variabel (kiri)  | A -= 1 berarti A = A - 1                           |
+| \*=      | Mengkalikan nilai dari variabel (kiri) lama dengan nilai (kanan) kemudian menetapkan hasilnya ke variabel (kiri) | A \*= 1 berarti A = A \* 1                         |
+| /=       | Membagi nilai dari variabel (kiri) lama dengan nilai (kanan) kemudian menetapkan hasilnya ke variabel (kiri)     | A /= 1 berarti A = A / 1                           |
 
 ### 2.3 Relational Operator
 
