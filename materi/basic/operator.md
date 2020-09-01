@@ -49,14 +49,14 @@ Pada kode diatas `=` berfungsi untuk memberikan nilai variabel num nilai 29. Ber
 
 Relational Operator atau Operator Relasional ini merupakan operator untuk membandingkan antara dua buah data atau variabel dan hasil dari perbandingan ini nantinya memiliki tujuan, jika memenuhi kondisi A maka akan lanjut pada Step B, dst. Setelah materi ini kita akan belajar lebih dalam tentang operator ini, umumnya digunakan saat melakukan coding if else. Berikut jenis jenis operator relasional.
 
-| Operator | Deskripsi                                                                                                                      |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| >        | Pengecekan nilai variabel kiri lebih besar dari nilai variabel kanan, jika iya berarti nilai TRUE jika tidak maka FALSE        |
-| <        | Pengecekan nilai variabel kiri lebih kecil dari nilai variabel kanan, jika iya berarti nilai TRUE jika tidak maka FALSE        |
-| ==       | Pengecekan nilai variabel kiri sama dengan nilai variabel kanan, jika iya berarti nilai TRUE jika tidak maka FALSE             |
-| !=       | Pengecekan nilai variabel kiri tidak sama dengan nilai variabel kanan, jika iya berarti nilai TRUE jika tidak maka FALSE       |
-| >=       | Pengecekan nilai variabel kiri lebih besar sama dengan nilai variabel kanan, jika iya berarti nilai TRUE jika tidak maka FALSE |
-| <=       | Pengecekan nilai variabel kiri lebih kecil sama dengan nilai variabel kanan, jika iya berarti nilai TRUE jika tidak maka FALSE |
+| Operator | Deskripsi                                                                                                    | Contoh  |
+| -------- | ------------------------------------------------------------------------------------------------------------ | ------- |
+| >        | Pengecekan nilai kiri lebih besar dari nilai kanan, jika iya berarti nilai TRUE jika tidak maka FALSE        | 10 > 5  |
+| <        | Pengecekan nilai kiri lebih kecil dari nilai kanan, jika iya berarti nilai TRUE jika tidak maka FALSE        | 2 < 5   |
+| ==       | Pengecekan nilai kiri sama dengan nilai kanan, jika iya berarti nilai TRUE jika tidak maka FALSE             | 5 == 5  |
+| !=       | Pengecekan nilai kiri tidak sama dengan nilai kanan, jika iya berarti nilai TRUE jika tidak maka FALSE       | 10 != 5 |
+| >=       | Pengecekan nilai kiri lebih besar sama dengan nilai kanan, jika iya berarti nilai TRUE jika tidak maka FALSE | 7 >= 7  |
+| <=       | Pengecekan nilai kiri lebih kecil sama dengan nilai kanan, jika iya berarti nilai TRUE jika tidak maka FALSE | 8 >= 8  |
 
 ### 2.4 Logical Operator
 
