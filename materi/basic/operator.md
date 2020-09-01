@@ -23,7 +23,7 @@ Arithmetic Operator atau Operator Aritmatika adalah operator yang biasa kita gun
 - (-) = Kurang
 - (\*) = Kali
 - (/) = Bagi
-- (%) = Modulo (Sisa Bagi)
+- (%) = Modulus (Sisa Bagi)
 
 Tentunya kalian sudah sering mendapati operator ini saat menggunakan kalkulator, jadi fungsi atau pengertian dari operator ini cukup jelas.
 
