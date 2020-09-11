@@ -7,7 +7,7 @@ Roadmap untuk belajar dasar pemrograman
 - [Variabel dan Tipe Data](materi/basic/variabeltipedata.md)
 - [Input dan Output](materi/basic/inputoutput.md)
 - [Operator](materi/basic/operator.md)
-- Percabangan
+- [Percabangan](materi/basic/percabangan.md)
 - Perulangan
 - Array
 - Fungsi
