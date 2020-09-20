@@ -8,7 +8,7 @@ Roadmap untuk belajar dasar pemrograman
 - [Input dan Output](materi/basic/inputoutput.md)
 - [Operator](materi/basic/operator.md)
 - [Percabangan](materi/basic/percabangan.md)
-- Perulangan
+- [Perulangan](materi/basic/perulangan.md)
 - Array
 - Fungsi
 
