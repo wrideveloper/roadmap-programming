@@ -122,7 +122,7 @@ Untuk membuat dinamis dan efisien dapat menggunakan `Looping` yang telah dipelaj
 // Contoh
 String[] nama = {"Bejo", "Foo", "Bar", "Tiwi"};
 
-for (int i = 0; i <= nama.length; i++) {
+for (int i = 0; i < nama.length; i++) {
   System.out.println(nama[i]);
 }
 ```
@@ -183,7 +183,7 @@ Multidimensional Array dapat juga diakses secara dinamis dan otomatis deng mengi
 int[][] myNum = {{1, 2, 3}, {4, 5, 6}};
 
 for (int i = 0; i < myNum.length; i++) {
-    for (int j = 0; j <= myNum[i].length; j++) {
+    for (int j = 0; j < myNum[i].length; j++) {
         System.out.println(myNum[i][j]);
     }
 }
