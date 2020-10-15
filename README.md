@@ -10,7 +10,7 @@ Roadmap untuk belajar dasar pemrograman
 - [Percabangan](materi/basic/percabangan.md)
 - [Perulangan](materi/basic/perulangan.md)
 - [Array](materi/basic/array.md)
-- Fungsi
+- [Fungsi](materi/basic/fungsi.md)
 
 ## 2. Object Oriented Programming
 
